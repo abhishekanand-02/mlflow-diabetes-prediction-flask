@@ -133,8 +133,8 @@ def predict():
 ```
 
 ## 2. App Routes
-/predict: Where users can input their data for prediction.
-/: The home page where users can learn more about the app.
+**/predict:** Where users can input their data for prediction.
+**/:** The home page where users can learn more about the app.
 
 # Components and Pipelines
 The project includes the following main components:
